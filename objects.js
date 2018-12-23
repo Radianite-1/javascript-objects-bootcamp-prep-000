@@ -1,3 +1,4 @@
 var playlist = {
-  Kid Cudi: 
+  Kid Cudi: "Kids see Ghosts"
+  Kanye West: "Yikes"
 }
